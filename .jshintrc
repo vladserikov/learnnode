@@ -1,0 +1,10 @@
+{
+  "esversion": 9,
+  "latedef": "nofunc",
+  "leanswitch": true,
+  "noarg": true,
+  "nonew": true,
+  "noreturnawait": true,
+  "shadow": "inner",
+  "singleGroups": true
+}
